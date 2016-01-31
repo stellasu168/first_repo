@@ -1,4 +1,4 @@
- first_repo
+ eee:first_repo
 Software changes 
 code changes
 test this changes
